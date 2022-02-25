@@ -17,3 +17,5 @@
       a lot out of programming this 3D scene.  I would like to put these skills to work someday but I am unsure what that looks like for me.  I know school
       keeps me pretty busy and I like learning new things about computer science and technology.  My goal is to get a bachelor’s degree in software
       engineering, and I am getting closer with each class I take.
+      
+      NOTE:  The Scene project file is almost 200MB it is brocken down into 25MB files if you download all the files the zip reconstructs the file.
